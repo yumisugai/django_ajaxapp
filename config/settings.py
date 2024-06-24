@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ajax_app',
         'USER': 'postgres',
-        'PASSWORD': 'Thl@103571', # ご自身で設定したパスワード
+        'PASSWORD': 'Thl@103571', 
         'HOST': 'localhost',
         'PORT': '5432',
     }
